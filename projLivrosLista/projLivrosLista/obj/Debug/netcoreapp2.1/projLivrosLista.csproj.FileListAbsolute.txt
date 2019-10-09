@@ -1,0 +1,4 @@
+C:\Users\CVB\source\repos\projLivrosLista\projLivrosLista\obj\Debug\netcoreapp2.1\projLivrosLista.csprojAssemblyReference.cache
+C:\Users\CVB\source\repos\projLivrosLista\projLivrosLista\obj\Debug\netcoreapp2.1\projLivrosLista.csproj.CoreCompileInputs.cache
+C:\Users\CVB\source\repos\projLivrosLista\projLivrosLista\obj\Debug\netcoreapp2.1\projLivrosLista.AssemblyInfoInputs.cache
+C:\Users\CVB\source\repos\projLivrosLista\projLivrosLista\obj\Debug\netcoreapp2.1\projLivrosLista.AssemblyInfo.cs
